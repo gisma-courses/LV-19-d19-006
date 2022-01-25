@@ -6,7 +6,7 @@ morea_type: outcome
 morea_sort_order: 7
 ---
 
-  * You know the difference of physical and statistical modeling 
-  * You can master common statistic models
+  * You have an idea what is meant by microclimate 
+  * You can apply common statistic models
   * You can adapt a machine learning approach 
-  * You can make an informed decision as to which approach makes more sense 
+  * You can follow a suggested approach to derive microclimate data
