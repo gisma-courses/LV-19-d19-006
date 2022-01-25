@@ -10,7 +10,8 @@ morea_outcomes:
 morea_readings:
   - reading-screencast-microclimate-analysis-gis-1
   - reading-microclimate-analysis-gis-1
-  - reading-microclimate-analysis-gis-1
+  - reading-microclimate-analysis-gis-2
+  - reading-microclimate-analysis-gis-3
 morea_experiences:
   - experience-microclimate-analysis-gis-1
 morea_assessments:
