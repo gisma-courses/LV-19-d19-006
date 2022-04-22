@@ -25,6 +25,10 @@ LV-19-d19-006 is structured as a sequential but *not* necessary linear series of
   * [Experiences](/LV-19-d19-006/experiences) -a structured set of challenges enabling you to acquire mastery of material.
   * [Assessments](/LV-19-d19-006/assessments) - performance check.
 
-## About the instructor
 
-[Chris Reudenbach](https://www.uni-marburg.de/de/fb19/fachbereich/staff/reudenbach) is head of the GI and Environmental Modeling Laboratory in the Department of Geography at the University of Marburg.
+## Legal
+
+The course content is developed and hosted on [Github](https://gisma-courses.github.io/geoinfo-basis-qgis/) and developed by the [GISMA Geoinformatics Science](https://www.uni-marburg.de/de/fb19/fachbereich/staff/reudenbach) working group.
+
+The responsibility for the content rests with the instructors. Statements, opinions and/or conclusions are the ones from the instructors and do not necessarily reflect the opinion of the representatives of [Marburg University](https://www.uni-marburg.de/en). 
+
