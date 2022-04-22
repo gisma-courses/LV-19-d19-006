@@ -5,7 +5,6 @@
 # SITE SPECIFIC: The following fields are typically changed for each site
 name: LV-19-d19-006
 baseurl: /LV-19-d19-006
-#baseurl: https://gisma-courses.github.io/LV-19-d19-006/
 morea_theme: cerulean-green
 timezone: Europe/Berlin
 morea_navbar_items:
@@ -19,13 +18,6 @@ morea_navbar_items:
 logger_factory:
   Morea: error
 
-
-# MOREA PORTAL: The following fields are only needed if this site is part of a "Morea Portal".
-# morea_course: ics311
-# morea_domain: http://morea-framework.github.io/
-# morea_google_analytics_tracking_id: "<your tracking id here>"
-# morea_head_breadcrumb_link: "http://cnn.com"
-# morea_head_breadcrumb_label: "CNN Site"
 
 # INTERNAL CONFIGURATION: The following fields are not normally edited by users.
 markdown: kramdown
