@@ -3,9 +3,6 @@ title: "Deriving ecological indices from LiDAR data"
 published: true
 morea_coming_soon: false
 morea_id: forest-lidar-gis
-morea_prerequisites:
-  - assessment-gis-reproducible-research
-  - assessment-spatial-r-gis-1
 morea_outcomes:
   - outcome-forest-lidar-gis-1
 morea_readings:
