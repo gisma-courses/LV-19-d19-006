@@ -5,7 +5,7 @@ morea_type: home
 published: true
 ---
 
-## Welcome to LV-19-d19-006 - GIS, Winter 2022
+## Welcome to LV-19-d19-006 - GIS, Winter 2021
 
 
 

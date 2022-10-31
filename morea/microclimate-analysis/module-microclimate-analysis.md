@@ -1,6 +1,6 @@
 ---
 title: "Spatial Prediction of Forest Microclimate"
-published: false
+published: true
 morea_coming_soon: false
 morea_id: microclimate-analysis-gis
 morea_prerequisites:
