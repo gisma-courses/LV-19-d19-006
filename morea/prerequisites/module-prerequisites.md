@@ -13,8 +13,8 @@ morea_assessments:
   - assessment-pre-know-how-1
 morea_type: module
 morea_icon_url: /morea/prerequisites/setup-folder-icon.png
-morea_start_date: "2021-10-26"
-morea_end_date: "2021-11-02"
+morea_start_date: "2022-11-01"
+morea_end_date: "2022-11-08"
 morea_labels: 
   - preparation
 morea_sort_order: 10

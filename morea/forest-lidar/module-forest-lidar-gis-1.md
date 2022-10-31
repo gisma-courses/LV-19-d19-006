@@ -1,6 +1,6 @@
 ---
 title: "Deriving ecological indices from LiDAR data"
-published: true
+published: false
 morea_coming_soon: false
 morea_id: forest-lidar-gis
 morea_outcomes:

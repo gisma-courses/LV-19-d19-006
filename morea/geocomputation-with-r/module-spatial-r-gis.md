@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Spatial R-GIS"
-published: true
+published: false
 morea_coming_soon: false
 morea_id: spatial-r-gis
 morea_prerequisites:
